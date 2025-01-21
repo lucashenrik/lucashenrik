@@ -16,7 +16,7 @@
 ---
 
 ## 📚 Projetos em Destaque
-- [Atende Mais](https://github.com/usuario/atende-mais): Sistema de rastreamento e gerenciamento de pedidos para produção.
-- [Automação de Login](https://github.com/usuario/automacao-login): Automação de logins com Selenium.
+[Atende Mais](https://github.com/usuario/atende-mais): Sistema de rastreamento e gerenciamento de pedidos para produção.
+[Automação de Login](https://github.com/usuario/automacao-login): Automação de logins com Selenium.
 
 ---
