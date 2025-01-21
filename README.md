@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá, eu sou Lucas Henrik!
 
-<!--
-**lucashenrik/lucashenrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 Bem-vindo ao meu perfil! Aqui você encontrará informações sobre meus projetos, habilidades e interesses.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias & Ferramentas
+- **Linguagem:** Java
+- **Frameworks:** Spring Boot, Spring Boot, React
+- **Banco de Dados:** MySQL
+- **Outros:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## 🧪 Testes
+- **Frameworks:** JUnit, Mockito
+
+## 📚 Projetos em Destaque
+- [Atende Mais](https://github.com/usuario/atende-mais): Sistema de rastreamento e gerenciamento de pedidos para produção.
+- [Automação de Login](https://github.com/usuario/automacao-login): Automação de logins com Selenium.
+
+## 🌐 Me encontre em:
+- [LinkedIn](https://www.linkedin.com/in/lucas-henrik/)
