@@ -6,7 +6,6 @@
 - **Linguagem:** Java
 - **Frameworks:** Spring Boot, Spring Boot, React
 - **Banco de Dados:** MySQL
-- **Outros:** Git
 
 ---
 
