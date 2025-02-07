@@ -4,7 +4,7 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 - **Linguagem:** Java
-- **Frameworks:** Spring Boot, Spring Boot, React
+- **Frameworks:** Spring Boot, Spring Security, Spring Data, Spring MVC, React
 - **Banco de Dados:** MySQL
 
 ---
